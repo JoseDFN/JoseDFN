@@ -30,9 +30,9 @@
 
 - 🌱 I’m currently learning **backend development for scalable applications with Spring Boot.**
 
-- ☁️ I'm interested in cloud computing and DevOps practices, and I'm exploring **AWS** to integrate backend services with cloud platforms.
+- ☁️ I'm interested in learning about cloud computing and DevOps practices. I'm eager to explore tools like AWS to enhance backend services with cloud integration.
 
-- 💬 Ask me about **Python, Flask, HTML and JavaScript.**
+- 💬 Feel free to ask me about **anything you'd like to discuss—I'm always open to new conversations!**
 
 - 🚀 I'm also passionate about **cryptocurrencies and blockchain technologies**, and I'm exploring **Solidity** for smart contract development.
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,linux,md,py,vscode&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,linux,md,py,vscode,flask&perline=12" />
   </a>
 </p>
 

@@ -52,7 +52,7 @@
   
   <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=JoseDFN&theme=radical&show_icons=true&hide_border=false&count_private=true" />
   <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=JoseDFN&theme=dark&hide_border=false](https://streak-stats.demolab.com/?user=JoseDFN&theme=radical&hide_border=true)" /> 
+  <img src="https://streak-stats.demolab.com?user=JoseDFN&theme=radical" alt="GitHub Streak" />
 </td>
 
 <td width="50%" align="center">

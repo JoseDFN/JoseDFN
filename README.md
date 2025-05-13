@@ -26,7 +26,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently working on **Python, HTML, CSS, JavaScript, Flask, DJANGO**
+- 🔭 I’m currently working on **Python, HTML, CSS, JavaScript, C#, Flask, DJANGO**
 
 - 🌱 I’m currently learning **backend development for scalable applications with Spring Boot.**
 
@@ -86,7 +86,7 @@
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,linux,md,py,vscode,flask&perline=12" />
+    <img src="https://skillicons.dev/icons?i=git,css,github,html,js,linux,md,py,vscode,flask,c#&perline=12" />
   </a>
 </p>
 
